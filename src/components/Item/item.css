@@ -1,0 +1,45 @@
+.list-group-item {
+    text-shadow: 1px 1px 20px #00fcf5;
+    color: #00f7ff;
+    margin: 2%;
+    text-decoration: none;
+    list-style: none;
+}
+
+.link-item:hover {
+    color: #00f7ff;
+}
+
+.main__minititle {
+    text-shadow: 1px 1px 20px #00fcf5;
+    color: #00f7ff;
+    margin: 5%;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.card {
+    width: 18rem;
+    height: 30.9rem;
+}
+.card:hover {
+    transition: 0.5s ease-in-out;
+    background: transparent;
+    box-shadow: 0 0 1em #00f7ff;
+  }
+
+.contenedor-cards{
+    background-image: url(../media/wallpaper3.jpg);
+    background-position: center;
+    width: 99.6vw;
+    
+}

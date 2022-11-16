@@ -1,0 +1,11 @@
+.contenedor-cart {
+    background-image: url(../../components/media/wallpaper3.jpg);
+    height: 100vh;
+}
+
+.main-minititle {
+    text-shadow: 1px 1px 20px #00fcf5;
+    color: #00f7ff;
+    text-align: center;
+    padding: 10%;
+}
